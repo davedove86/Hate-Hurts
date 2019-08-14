@@ -29,9 +29,75 @@
  p
   padding-bottom: 20px
 
-@media (max-width: 640px)
-  .about-item
+@media (max-width: 960px)
+  .about-wrap
+    margin: 0 auto
+    // text-align: center
+    justify-content: center
+    .about-item
 
-    img
-      width: 80%
+      img
+        width: 80%
 
+// Get Involved Page
+
+.flex-wrapper
+  display: flex
+  align-items: stretch
+  flex-wrap: wrap
+
+  .flex-item-left, .flex-item-right
+    width: 50%
+    align-self: stretch
+
+    a
+      color: #000
+      text-decoration: none
+      text-transform: uppercase
+      font-weight: 800
+    
+    h1, h2
+      font-size: 34px
+      font-weight: 400
+      text-transform: uppercase
+    
+    .social-icon
+      margin-left: 30px
+
+
+    .red-link
+      color: $primary-color
+
+
+    ul
+      list-style-image: url(../img/bullet.svg)
+      padding-left: 20px
+
+      li
+        margin-bottom: 20px
+  
+  .flex-item-right
+    text-align: right
+
+  .red
+    background: $primary-color
+
+.reverse
+  flex-direction: row-reverse
+
+
+@media (max-width: 780px)
+  .flex-wrapper
+    flex-direction: column
+
+    .flex-item-left, .flex-item-right
+      width: 100%
+      text-align: left
+
+      h1, h2,
+        text-align: center
+
+      .center-align
+        text-align: center
+
+        
