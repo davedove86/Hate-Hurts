@@ -1,18 +1,20 @@
-$('.cd-testimonials-wrapper').flexslider({
-  //declare the slider items
-  selector: '.cd-testimonials > li',
-  animation: 'slide',
-  //do not add navigation for paging control of each slide
-  controlNav: false,
-  slideshow: false,
-  //Allow height of the slider to animate smoothly in horizontal mode
-  smoothHeight: true,
-  start: function() {
-    $('.cd-testimonials')
-      .children('li')
-      .css({
-        opacity: 1,
-        position: 'relative'
-      });
-  }
+// Smmoth Scroll
+$(function() {
+  smoothScroll(1000);
 });
+
+function smoothScroll(duration) {
+  $('a[href^="#"]').on('click', function(event) {
+    var target = $($(this).attr('href'));
+
+    if (target.length) {
+      event.preventDefault();
+      $('html, body').animate(
+        {
+          scrollTop: target.offset().top
+        },
+        duration
+      );
+    }
+  });
+}
