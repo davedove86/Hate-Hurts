@@ -572,7 +572,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 587579591.80617297
+	"lastBuiltDate": 587580038.21996605
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2038,7 +2038,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http://localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
