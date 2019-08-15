@@ -18,23 +18,3 @@ function smoothScroll(duration) {
     }
   });
 }
-
-// Cookies Banner
-window.addEventListener('load', function() {
-  window.cookieconsent.initialise({
-    palette: {
-      popup: {
-        background: '#000000',
-        text: '#ffffff'
-      },
-      button: {
-        background: '#ffffff',
-        text: '#000000'
-      }
-    },
-    theme: 'classic',
-    content: {
-      href: 'https://www.hatehurts.co.uk/cookies.html'
-    }
-  });
-});
