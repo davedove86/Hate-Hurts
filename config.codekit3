@@ -137,6 +137,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/src/assets/css/2-modules/_footer.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dist/assets/css/2-modules/_footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/src/assets/css/2-modules/_header.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -594,7 +607,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 587590566.57734203
+	"lastBuiltDate": 587591049.75820506
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
