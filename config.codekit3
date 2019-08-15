@@ -39,14 +39,6 @@
 		"oAP": "/dist/footer.html",
 		"oF": 0
 		},
-	"/get-involved.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/dist/get-involved.html",
-		"oF": 0
-		},
 	"/get-involved.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -69,14 +61,6 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dist/header.html",
-		"oF": 0
-		},
-	"/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/dist/index.html",
 		"oF": 0
 		},
 	"/index.kit": {
@@ -610,7 +594,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 587589786.19166994
+	"lastBuiltDate": 587590566.57734203
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
