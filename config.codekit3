@@ -82,7 +82,7 @@
 	"/index.kit": {
 		"cB": 0,
 		"ft": 2048,
-		"hM": 0,
+		"hM": 1,
 		"oA": 0,
 		"oAP": "/dist/index.html",
 		"oF": 2
@@ -610,7 +610,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 587589664.70419705
+	"lastBuiltDate": 587589786.19166994
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
