@@ -1,0 +1,54 @@
+header
+ background: #FF0100
+ padding: 30px 0
+
+ .navbar
+  display: flex
+
+  nav
+    display: flex
+    margin-left: auto
+
+    a
+     text-decoration: none
+     color: #fff
+
+     li
+       list-style-type: none
+       padding-right: 40px
+       font-weight: 700
+       text-transform: uppercase
+  
+  @media (max-width: 640px)
+    
+    nav
+      // justify-content: center
+      margin: 0 auto
+
+      a
+
+        li
+          padding: 0 20px
+
+ .hero-wrap
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  text-align: center
+  padding: 50px 20px
+
+  .kicker
+   font-size: 34px
+   font-weight: 400
+   color: #ffffff
+   padding-top: 30px
+   max-width: 420px
+
+  .btn-black
+    background: #000
+
+@media (max-width: 960px)
+  .hero-wrap
+    img
+      width: 80%

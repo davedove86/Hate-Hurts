@@ -31,6 +31,14 @@
 		"oAP": "/dist/footer.html",
 		"oF": 0
 		},
+	"/get-involved.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dist/get-involved.html",
+		"oF": 0
+		},
 	"/get-involved.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -75,9 +83,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/dist/netlify.toml",
-		"oF": 0
+		"oF": 1
 		},
 	"/README.md": {
 		"cB": 0,
@@ -98,6 +106,453 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/src/assets/css/0-tools/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dist/assets/css/0-tools/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/assets/css/1-base/_base.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dist/assets/css/1-base/_base.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/assets/css/1-base/_vars.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dist/assets/css/1-base/_vars.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/assets/css/2-modules/_header.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dist/assets/css/2-modules/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/assets/css/4-pages/_home.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dist/assets/css/4-pages/_home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/assets/css/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "/dist/assets/css/main-min.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
+	"/src/assets/img/believe-logo.png": {
+		"ft": 32768,
+		"iS": 4751,
+		"oA": 0,
+		"oAP": "/dist/assets/img/believe-logo.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/assets/img/bhp-law.jpg": {
+		"ft": 16384,
+		"iS": 53543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/bhp-law.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/blind-life.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/blind-life.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/bullet.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/bullet.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/chamber-commerce.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/chamber-commerce.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/dad.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/dad.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/dave-dove.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/dave-dove.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/david.jpg": {
+		"ft": 16384,
+		"iS": 7808,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/david.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/dbc.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/dbc.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/dcc.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/dcc.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/dd.png": {
+		"ft": 32768,
+		"iS": 4636,
+		"oA": 0,
+		"oAP": "/dist/assets/img/dd.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/assets/img/ddf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/ddf.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/dfc.png": {
+		"ft": 32768,
+		"iS": 88234,
+		"oA": 0,
+		"oAP": "/dist/assets/img/dfc.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/assets/img/durham-police.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/durham-police.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/durham-pride.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/durham-pride.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/durham-uni.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/durham-uni.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/facebook.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/footer-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/footer-logo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/hero-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/hero-logo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/john.png": {
+		"ft": 32768,
+		"iS": 69440,
+		"oA": 0,
+		"oAP": "/dist/assets/img/john.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/assets/img/kevan-jones.jpg": {
+		"ft": 16384,
+		"iS": 13375,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/kevan-jones.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/leaflet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/leaflet.pdf",
+		"oF": 1
+		},
+	"/src/assets/img/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/logo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/new-college.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/new-college.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/nhw.jpg": {
+		"ft": 16384,
+		"iS": 36139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/nhw.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/paul.jpg": {
+		"ft": 16384,
+		"iS": 22247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/paul.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/poster-1.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/poster-1.pdf",
+		"oF": 1
+		},
+	"/src/assets/img/poster.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/poster.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/querkey.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/querkey.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/ron-hogg-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/ron-hogg-logo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/ron.png": {
+		"ft": 32768,
+		"iS": 101051,
+		"oA": 0,
+		"oAP": "/dist/assets/img/ron.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/assets/img/srtrc.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/srtrc.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/stuart.jpg": {
+		"ft": 16384,
+		"iS": 11158,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/stuart.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/twitter.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/src/assets/img/ymca.jpg": {
+		"ft": 16384,
+		"iS": 24199,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/ymca.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/js/functions.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/dist/assets/js/functions-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/testimonials.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -117,7 +572,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 587575654.96538401
+	"lastBuiltDate": 587578761.78087902
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
