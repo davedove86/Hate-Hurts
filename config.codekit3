@@ -241,6 +241,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/src/assets/img/cps.jpg": {
+		"ft": 16384,
+		"iS": 21613,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/cps.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/src/assets/img/dad.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -603,11 +614,11 @@
 	},
 "projectAttributes": {
 	"creationDate": 555775733,
-	"displayValue": "Hate-Hurts",
+	"displayValue": "hate-hurts",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 587674559.205055
+	"lastBuiltDate": 592773837.76653194
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
