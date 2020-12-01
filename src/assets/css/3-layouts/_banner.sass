@@ -1,0 +1,46 @@
+.banner
+    background: white
+    padding: 10px 0
+    
+    .banner-wrap
+        display: flex
+        justify-content: space-between
+        max-width: 1160px
+        margin: 0 auto
+        padding: 0 20px
+
+        img
+            height: 80px
+
+.banner-red
+    background: $primary-color
+    padding: 10px 0
+
+    .banner-wrap
+        display: flex
+        flex-wrap: wrap
+        justify-content: space-between
+        align-items: center
+        max-width: 1160px
+        margin: 0 auto
+        padding: 0 20px
+    
+    p
+        max-width: 377px
+        font-size: 22px
+        line-height: 1.6
+
+    button
+        background: black
+        margin: 0
+
+@media (max-width: 840px)
+    .none
+        display: none
+
+    .banner-red
+
+        .banner-wrap
+            flex-direction: column
+            text-align: center
+        

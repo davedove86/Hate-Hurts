@@ -1,20 +1,23 @@
-// Smmoth Scroll
-$(function() {
-  smoothScroll(1000);
-});
+const navSlide = () => {
+  const burger = document.querySelector(`.burger`);
+  const nav = document.querySelector(`.nav-links`);
+  const navLinks = document.querySelectorAll(`.nav-links li`);
 
-function smoothScroll(duration) {
-  $('a[href^="#"]').on('click', function(event) {
-    var target = $($(this).attr('href'));
+  burger.addEventListener(`click`, () => {
+    nav.classList.toggle(`nav-active`);
 
-    if (target.length) {
-      event.preventDefault();
-      $('html, body').animate(
-        {
-          scrollTop: target.offset().top
-        },
-        duration
-      );
-    }
+    navLinks.forEach((link, index) => {
+      if (link.style.animation) {
+        link.style.animation = ``;
+      } else {
+        link.style.animation = `navLinkFade 0.5s ease forwards ${
+          index / 7 + 0.3
+        }s`;
+      }
+    });
+    // Burger Animation
+    burger.classList.toggle(`toggle`);
   });
-}
+};
+
+navSlide();

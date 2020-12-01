@@ -1,15 +1,17 @@
 // 0-tools
-@import '0-tools/normalize';
 
 // 1-base
-@import '1-base/vars';
-@import '1-base/base';
+@import "1-base/vars";
+@import "1-base/base";
 
 // 2-modules
-@import '2-modules/header';
-@import '2-modules/footer';
+@import "2-modules/header";
+@import "2-modules/footer";
 
 // 3-layouts
+@import "3-layouts/banner";
+@import "3-layouts/testimonials";
 
 // 4-pages
-@import '4-pages/home';
+@import "4-pages/home";
+@import "4-pages/gallery";

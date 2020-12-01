@@ -1,22 +1,50 @@
 // Footer
 footer
-  background: $primary-color
-  padding: 0 25px
+  background: #000000
+  padding: 50px 20px
 
   .footer-wrap
     display: flex
     justify-content: space-between
-    align-items: center
+    align-items: start
 
-    p
-      font-size: 14px
 
-    a
-      text-decoration: none
-      color: #fff
+    .footer-item
+
+      .footer-headline
+        font:
+          size: 14px
+          weight: bold
+        margin-top: 0
+      
+      ul
+        padding: 0
     
-  .align-right
-    text-align: right
+        li
+          list-style: none
+
+        a
+          font:
+            size: 14px
+            weight: 400
+          color: #fcfcfcc5
+          text-decoration: none
+
+        a:hover
+          color: #fcfcfc
+    
+  .bottom-footer-item
+    text-align: center
+    padding-top: 20px
+    
+    a
+      color: #fcfcfcc5
+      text-decoration: none
+      font:
+        size: 14px
+      
+    a:hover
+      color: #fcfcfc
 
 
   @media (max-width: 760px)
@@ -25,4 +53,6 @@ footer
 
       .footer-item
         padding: 20px 0
-        text-align: center
+
+    .bottom-footer-item
+      text-align: left
